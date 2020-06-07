@@ -23,7 +23,6 @@ int main() {
         } else {
             std::cout << "Already exists for " << v[m] << std::endl;
         }
-        m.empty();
     }
     return 0;
 }
