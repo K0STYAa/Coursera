@@ -90,6 +90,6 @@ public:
 private:
 
     std::map<int, std::string> first_names;
-    std:: map<int, std::string> last_names;
+    std::map<int, std::string> last_names;
 
 };
